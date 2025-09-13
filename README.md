@@ -57,7 +57,7 @@ Follow these steps to create an EC2 instance for any tier (Web/App/DB):
 
 *Screenshot Example: Instance Running Status*
 
-![Instance Running Screenshot](screenshots/instance-running-status.png)
+![Instance Running Screenshot](https://github.com/Naveen15github/Deployment-of-a-Three-Tier-Web-Application-on-AWS-EC2-/blob/254b71186353fc7d030004ccedf5b46e96f65b0b/Screenshot%20(29).png)
 
 ---
 
