@@ -1,4 +1,4 @@
-# 🚀 Deploying a Three-Tier Web Application on AWS EC2
+# Deploying a Three-Tier Web Application on AWS EC2
 
 This guide provides a **step-by-step walkthrough** for deploying a secure and scalable three-tier architecture using AWS EC2 instances.  
 *VPC creation steps are omitted—you can use the default VPC provided by AWS.*
