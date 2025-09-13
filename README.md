@@ -95,7 +95,7 @@ Follow these steps to create an EC2 instance for any tier (Web/App/DB):
 
 *Screenshot Example: SSH Connection from Command Prompt*
 
-![SSH Connection Screenshot](screenshots/ssh-connection.png)
+![SSH Connection Screenshot](https://github.com/Naveen15github/Deployment-of-a-Three-Tier-Web-Application-on-AWS-EC2-/blob/55c38ff189f6b13c5806905c89cdc67fbf9f0aee/Screenshot%20(30).png)
 
 ---
 
