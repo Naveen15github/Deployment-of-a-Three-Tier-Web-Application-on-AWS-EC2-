@@ -33,7 +33,7 @@ A **three-tier architecture** splits your application into three layers:
 
 *Screenshot Example: Creating a Security Group*
 
-![Create Security Group Screenshot](screenshots/create-security-group.png)
+![Create Security Group Screenshot](screenshots/create-security-group.png](https://github.com/Naveen15github/Deployment-of-a-Three-Tier-Web-Application-on-AWS-EC2-/blob/eca1cd7dd9d42d3483dc1fe16d705a833de7d7c9/Screenshot%20(28).png))
 
 ---
 
