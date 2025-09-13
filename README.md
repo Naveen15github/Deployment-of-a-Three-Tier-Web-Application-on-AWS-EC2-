@@ -152,6 +152,7 @@ Follow these steps to create an EC2 instance for any tier (Web/App/DB):
 Continue with software installation and configuration for each tier as described above.
 
 ---
+##Running website
 
 ## 📁 Example Project Structure
 
