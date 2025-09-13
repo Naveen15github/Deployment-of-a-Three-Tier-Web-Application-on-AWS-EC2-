@@ -153,7 +153,7 @@ Continue with software installation and configuration for each tier as described
 
 ---
 ## Running website
-![website Screenshot]([screenshots/ssh-connection.png](https://github.com/Naveen15github/Deployment-of-a-Three-Tier-Web-Application-on-AWS-EC2-/blob/212b23e4e44635e8da79a7ad10fa242fcacbcecb/Screenshot%20(27).png)
+![website Screenshot](https://github.com/Naveen15github/Deployment-of-a-Three-Tier-Web-Application-on-AWS-EC2-/blob/212b23e4e44635e8da79a7ad10fa242fcacbcecb/Screenshot%20(27).png)
 ## 📁 Example Project Structure
 
 ```
